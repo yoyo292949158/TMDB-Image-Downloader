@@ -85,7 +85,7 @@ For more details on how TMDB handles image languages, see the TMDB documentation
 2. Download the latest version or clone the source:
 
    ```bash
-   git clone https://github.com/Erfangholiz/TMDB-Poster-Downloader.git
+   git clone TMDB-Poster-Downloader
 
    cd TMDB-Poster-Downloader/
 
